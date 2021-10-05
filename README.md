@@ -4,11 +4,11 @@ This project was bootstrapped with React App & React Routing.
 
 ## Live Site Link
 
-The website =>[Edu Care](https://the-best-programmers.netlify.app/)
+The website =>[Edu Care](//https://educare-shamiik.netlify.app/)
 
 ## Direct Site Link
 
-Here : https://the-best-programmers.netlify.app/
+Here : https://educare-shamiik.netlify.app/
 
 ## Details
 
