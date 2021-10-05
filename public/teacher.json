@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Tamzid",
+    "email": "tamzid@gmail.com",
+    "address": "Rampura,Dhaka",
+    "title": "Senior Teacher",
+    "img": "https://media-exp1.licdn.com/dms/image/C5603AQF9N2kTNj_aAQ/profile-displayphoto-shrink_200_200/0/1609665219687?e=1639008000&v=beta&t=-IO7Ix9o_s3Gg5DOh1axyowEh1v3842chalnNhXavug"
+  },
+  {
+    "id": 2,
+    "name": "Supto Roy",
+    "email": "supto@gmail.com",
+    "address": "Rampura,Dhaka",
+    "title": "Senior Teacher",
+    "img": "https://www.hrw.org/sites/default/files/multimedia_images_2019/201905crd_alex_firth.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Alina",
+    "email": "Alina@gmail.com",
+    "address": "Rampura,Dhaka",
+    "title": "Associate Teacher",
+    "img": "https://www.xploretefl.com/articles/wp-content/uploads/2018/12/teacher-greenboard.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Luis Farin",
+    "email": "luis@gmail.com",
+    "address": "Rampura,Dhaka",
+    "title": "Associate Teacher",
+    "img": "https://media.baamboozle.com/uploads/images/24345/1571133164_6194"
+  },
+  {
+    "id": 5,
+    "name": "Rahim",
+    "email": "rahim@gmail.com",
+    "address": "Rampura",
+    "title": "Associate Teacher",
+    "img": "https://www.highlands.edu/wp-content/uploads/2016/02/English-teacher.jpg"
+  },
+  {
+    "id": 6,
+    "name": "sabila",
+    "email": "sabila@gmail.com",
+    "address": "Rampura",
+    "title": "Associate Teacher",
+    "img": "https://starspie.com/wp-content/uploads/2021/01/Sabila-Nur-Wallpaper.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ava",
+    "email": "ava@gmail.com",
+    "address": "Rampura",
+    "title": "Associate Teacher",
+    "img": "https://5thvoice.news/kkg_admin/images/categoryimages/1602262676new_teacher.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "juis fedra",
+    "email": "juisfedra@gmail.com",
+    "address": "Rampurai",
+    "title": "Associate teacher",
+    "img": "https://image.shutterstock.com/image-photo/foreign-language-portrait-confident-smiling-260nw-1886916787.jpg"
+  },
+  {
+    "id": 9,
+    "name": "sahid",
+    "email": "sahid@gmail.com",
+    "address": "Rampura",
+    "title": "Associate Teacher",
+    "img": "https://www.thebalancecareers.com/thmb/mA1EU2tgVbzc6vkoreIvq_uIlok=/1885x1414/smart/filters:no_upscale()/teacher-pointing-while-teaching-in-classroom-962347986-75ce5f976522477686ca12d3e7972054.jpg"
+  }
+]

@@ -1,0 +1,13 @@
+.footer{
+    /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFzoSK0kBUskA10Rh8It6c33g5aZ3oW5155Q&usqp=CAU'); */
+    background-color:rgb(185, 175, 156);
+  height: 200px;
+  width: 100%;
+  font-size: larger;
+  text-align: center;
+  padding-top: 50px;
+  margin-top: 20px;
+  /* position: fixed; */
+  bottom:0;
+  color: rgb(0, 0, 0);
+}

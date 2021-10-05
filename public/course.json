@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "GRE",
+    "duration": 3,
+    "class": 80,
+    "modeltest": 45,
+    "price": 12000,
+    "support": "Lifetime",
+    "img": "https://pictures.abebooks.com/isbn/9780446396004-us.jpg"
+  },
+  {
+    "id": 2,
+    "name": "SAT-I",
+    "duration": 2.5,
+    "class": 60,
+    "modeltest": 28,
+    "support": "Lifetime",
+    "price": 5500,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51DP1A2EGRL._SX339_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "IELTS",
+    "duration": 3,
+    "class": 75,
+    "modeltest": 22,
+    "support": "lifetime",
+    "price": 7000,
+    "img": "https://kisob.com/wp-content/uploads/2020/09/Cambriage-IELTS-Academic-1-15.png "
+  },
+  {
+    "id": 4,
+    "name": "Speaking English",
+    "duration": 3,
+    "class": 30,
+    "modeltest": 15,
+    "support": "lifetime",
+    "price": 3000,
+    "img": "https://soenglish.me/content/images/2020/04/07-speaking-book.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Speaking English for kids",
+    "duration": 8,
+    "class": 110,
+    "modeltest": 120,
+    "support": "Lifetime",
+    "price": 4000,
+    "img": "https://vidyauniversitypress.com/wp-content/uploads/2020/02/SPOKEN-ENGLISH-7-scaled.jpg"
+  },
+  {
+    "id": 6,
+    "name": "English for IBA(MBA)",
+    "duration": 3,
+    "class": 60,
+    "modeltest": 35,
+    "support": "Lifetime",
+    "price": 6500,
+    "img": "https://mamunbooks.com/wp-content/uploads/2020/02/IBA-English-Dream-House-Publications.jpg"
+  },
+  {
+    "id": 7,
+    "name": "English for IBA(BBA)",
+    "duration": 4,
+    "class": 65,
+    "modeltest": 30,
+    "support": "Lifetime",
+    "price": 6000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdMpV2NXl96eswi8TLZHm-KpvfFhNNidSfCg&usqp=CAU"
+  },
+  {
+    "id": 8,
+    "name": "English for SSC",
+    "duration": 5,
+    "class": 135,
+    "modeltest": 95,
+    "support": "Lifetime",
+    "price": 5000,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51u9067u2DL._SX366_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 9,
+    "name": "English for HSC",
+    "duration": 5,
+    "class": 125,
+    "modeltest": 80,
+    "support": "Lifetime",
+    "price": 5000,
+    "img": "https://www.observerbd.com/2016/03/20/1458483702.jpg"
+  },
+  {
+    "id": 10,
+    "name": "English for University Admission",
+    "duration": 4,
+    "class": 65,
+    "modeltest": 50,
+    "support": "Lifetime",
+    "price": 4000,
+    "img": "https://static-01.daraz.com.bd/p/267966add05c95e3a4e4c9a9f56f5f9c.jpg_340x340q80.jpg_.webp"
+  },
+  {
+    "id": 11,
+    "name": "Writing English",
+    "duration": 2,
+    "class": 30,
+    "modeltest": 20,
+    "support": "Lifetime",
+    "price": 1200,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/718WeMXf0rL.jpg"
+  },
+  {
+    "id": 12,
+    "name": "German Language",
+    "duration": 3,
+    "class": 45,
+    "modeltest": 45,
+    "support": "Lifetime",
+    "price": 5000,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51MG9yzuxxL._SX331_BO1,204,203,200_.jpg"
+  }
+]

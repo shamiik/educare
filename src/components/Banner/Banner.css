@@ -1,0 +1,19 @@
+.banner {
+  background-image: url("https://storage.googleapis.com/production-hostgator-v1-0-6/636/453636/kxS0KTpS/7e5d3aaa87a54d01b060c1877145c0c0"),
+    linear-gradient(rgba(255, 255, 255, 0.5), rgba(189, 125, 125, 0.5));
+  height: 380px;
+  width: 100%;
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.title {
+  color: blue;
+  font-weight: bold;
+  font-size: 65px;
+}
+.font{
+
+  font-weight: bold;
+}
