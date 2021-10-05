@@ -6,6 +6,9 @@ const Header = () => {
         <div className='header'>
             <h1 className='fw-bold'>Welcome To EduCare</h1>
             <p><small>High Quality Assurance Centre</small></p>
+
+
+            {/* .........Navbar call........ */}
             <Navbar></Navbar>
         </div>
     );

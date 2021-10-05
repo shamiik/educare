@@ -15,6 +15,7 @@ const AllCourses = () => {
             <Header></Header>
             <div>
                 <h2>Our All Courses</h2>
+                {/*.............. All Courses ........ */}
                 <div className='row'>
                     {
                         courses.map(course => <div

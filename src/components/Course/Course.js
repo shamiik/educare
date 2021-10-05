@@ -3,8 +3,11 @@ import Footer from '../Footer/Footer';
 import './Course.css'
 const Course = (props) => {
 
+    // destructuring
     const { img, duration, name, support } = props.course;
     return (
+
+        // only 4 course data loaded
         <div className='col-md-3'>
             <div className='cart'>
                 <div className='photo'>

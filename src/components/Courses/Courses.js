@@ -9,6 +9,10 @@ const Courses = () => {
             .then((data) => setCourses(data));
     }, []);
     // console.log(courses);
+
+
+    // .......4 data slicing for display home page.........
+
     const corse = courses.slice(0, 4);
     // console.log(corse);
     return (
@@ -18,7 +22,9 @@ const Courses = () => {
                 <div>
                     <div className='row'>
                         {
-                            corse.map(course => <Course course={course}></Course>)
+                            corse.map(course => <Course
+                                key={course.id}
+                                course={course}></Course>)
                         }
                     </div>
                 </div>

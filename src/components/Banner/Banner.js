@@ -8,6 +8,7 @@ const Banner = () => {
       <div>
         <Header></Header>
       </div>
+      {/* Banner Information  */}
       <div className="row d-flex banner align-items-center justify-content-center">
         <div className="col-md-6 p-5">
           <h1 className="title">

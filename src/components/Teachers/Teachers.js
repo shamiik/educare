@@ -13,13 +13,18 @@ const Teachers = () => {
     return (
         <div>
             <Header></Header>
-            <h2>Our All Courses</h2>
+            <h2>Our All Teachers</h2>
+
+            {/* Teacher Body  */}
+
             <div className='row'>
+                {/* teacher data mapping  */}
                 {
                     teachers.map(teacher => <div
                         key={teacher.id}
                         className='col-md-4'>
                         <div className="cart">
+
                             <div className='photo'>
                                 <img className='w-50' src={teacher.img} alt="" />
                             </div>
