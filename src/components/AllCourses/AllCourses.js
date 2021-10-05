@@ -18,6 +18,7 @@ const AllCourses = () => {
                 <div className='row'>
                     {
                         courses.map(course => <div
+                            key={course.id}
                             className='col-md-4'>
                             <div className='cart'>
                                 <div className='photo'>
@@ -25,7 +26,7 @@ const AllCourses = () => {
                                 </div>
                                 <div>
                                     <h2>{course.name}</h2>
-                                    <p>Duration: {course.duration}</p>
+                                    <p>Duration: {course.duration} Months</p>
                                     <p>Support: {course.support}</p>
                                     <button className='btn btn-primary'>Details</button>
                                 </div>

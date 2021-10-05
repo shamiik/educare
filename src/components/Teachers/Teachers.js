@@ -17,6 +17,7 @@ const Teachers = () => {
             <div className='row'>
                 {
                     teachers.map(teacher => <div
+                        key={teacher.id}
                         className='col-md-4'>
                         <div className="cart">
                             <div className='photo'>

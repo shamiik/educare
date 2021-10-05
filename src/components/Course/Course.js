@@ -12,7 +12,7 @@ const Course = (props) => {
                 </div>
                 <div>
                     <h2>{name}</h2>
-                    <p>Duration: {duration} Months</p>
+                    <p>Duration: {duration}Months</p>
                     <p>Support: {support}</p>
                     <button className='btn btn-primary'>Details</button>
                 </div>
