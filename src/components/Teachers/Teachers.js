@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Footer from '../Footer/Footer';
-import Navbar from '../Navbar/Navbar';
+import Header from '../Header/Header';
 import './Teacher.css'
 
 const Teachers = () => {
@@ -12,7 +12,7 @@ const Teachers = () => {
     }, [])
     return (
         <div>
-            <Navbar></Navbar>
+            <Header></Header>
             <h2>Our All Courses</h2>
             <div className='row'>
                 {

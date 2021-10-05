@@ -1,12 +1,12 @@
 import React from "react";
-import Navbar from "../Navbar/Navbar";
+import Header from "../Header/Header";
 import "./Banner.css";
 
 const Banner = () => {
   return (
     <>
       <div>
-        <Navbar></Navbar>
+        <Header></Header>
       </div>
       <div className="row d-flex banner align-items-center justify-content-center">
         <div className="col-md-6 p-5">

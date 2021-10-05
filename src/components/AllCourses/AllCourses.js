@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './AllCourse.css'
 import Footer from '../Footer/Footer';
-import Navbar from '../Navbar/Navbar';
+import Header from '../Header/Header';
 
 const AllCourses = () => {
     const [courses, setCourses] = useState([]);
@@ -12,7 +12,7 @@ const AllCourses = () => {
     }, []);
     return (
         <div>
-            <Navbar></Navbar>
+            <Header></Header>
             <div>
                 <h2>Our All Courses</h2>
                 <div className='row'>

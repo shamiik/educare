@@ -1,12 +1,12 @@
 import React from 'react';
 import Footer from '../Footer/Footer';
-import Navbar from '../Navbar/Navbar';
+import Header from '../Header/Header';
 
 const About = () => {
     return (
         <div>
             <div>
-                <Navbar></Navbar>
+                <Header></Header>
             </div>
             <div className="container">
                 <h2 className="text-center"> About Us</h2>
