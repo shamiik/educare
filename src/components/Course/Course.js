@@ -4,7 +4,7 @@ import './Course.css'
 const Course = (props) => {
 
     // destructuring
-    const { img, duration, name, support, price } = props.course;
+    const { img, duration, name, support, price, lesson } = props.course;
     return (
 
         // only 4 course data loaded
@@ -14,7 +14,8 @@ const Course = (props) => {
                     <img src={img} alt="" />
                 </div>
                 <div>
-                    <h2>{name}</h2> <br />
+                    <h2>{name}</h2>
+                    <small>Total Class: {lesson}</small><br />
                     <small>Duration: {duration}Months</small><br />
                     <small>Support: {support}</small>
                     <p>Price: {price} Tk</p>

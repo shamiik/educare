@@ -29,9 +29,9 @@ const Teachers = () => {
                                 <img className='w-50' src={teacher.img} alt="" />
                             </div>
                             <div>
-                                <h4>{teacher.name}</h4>
-                                <p><small>{teacher.email}</small></p>
-                                <h2>{teacher.title}</h2>
+                                <h3>{teacher.name}</h3>
+                                <p><small>email: {teacher.email}</small></p>
+                                <h5> {teacher.title}</h5>
                                 <p>Address:<small> {teacher.address}</small></p>
                             </div>
 

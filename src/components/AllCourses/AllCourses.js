@@ -27,6 +27,7 @@ const AllCourses = () => {
                                 </div>
                                 <div>
                                     <h2>{course.name}</h2>
+                                    <small>Total Class: {course.lesson}</small><br />
                                     <small>Duration: {course.duration} Months</small><br />
                                     <small>Support: {course.support}</small>
                                     <p>Price: {course.price}Tk</p>
