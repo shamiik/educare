@@ -1,6 +1,7 @@
 import React from 'react';
 import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
+import './About.css'
 
 const About = () => {
     return (
@@ -18,7 +19,9 @@ const About = () => {
                     <br />
                     We have created hundreds of clear, concise courses covering a wide range of sectors. We have worked with education inspectorates, international schools, charities, the ambulance and fire service, the NHS and hundreds of commercial and member organisations to fast track their staff with the real need-to-know essentials.</p>
             </div>
-            <Footer></Footer>
+            <div className='footer-about'>
+                <Footer></Footer>
+            </div>
         </div>
     );
 };

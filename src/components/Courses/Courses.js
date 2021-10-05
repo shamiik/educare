@@ -15,7 +15,7 @@ const Courses = () => {
         <>
             <div className='course-container'>
                 <h2>Our Courses</h2>
-                <div className='courses'>
+                <div>
                     <div className='row'>
                         {
                             corse.map(course => <Course course={course}></Course>)
