@@ -27,8 +27,9 @@ const AllCourses = () => {
                                 </div>
                                 <div>
                                     <h2>{course.name}</h2>
-                                    <p>Duration: {course.duration} Months</p>
-                                    <p>Support: {course.support}</p>
+                                    <small>Duration: {course.duration} Months</small><br />
+                                    <small>Support: {course.support}</small>
+                                    <p>Price: {course.price}Tk</p>
                                     <button className='btn btn-primary'>Details</button>
                                 </div>
                             </div>
